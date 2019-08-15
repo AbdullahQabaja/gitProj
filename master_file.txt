@@ -1,1 +1,2 @@
+my master file (new branch) (test from master)
 my master file (new branch) (test from feature/s111333)
